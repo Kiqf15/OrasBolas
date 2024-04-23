@@ -1,0 +1,8 @@
+Criar interface para menu e graficos?
+
+fechar e abrir Graficos exe
+Determinar raio de interceptação
+
+Transformar .bat em executavel
+
+Adicionar convencões antes dos dados
